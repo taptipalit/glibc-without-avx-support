@@ -1,0 +1,4 @@
+/* GNU ld script
+*/
+OUTPUT_FORMAT(elf64-x86-64)
+GROUP ( /mnt/Projects/tpalit/glibc/glibc-install/lib/libm.so.6  AS_NEEDED ( /mnt/Projects/tpalit/glibc/glibc-install/lib/libmvec_nonshared.a /mnt/Projects/tpalit/glibc/glibc-install/lib/libmvec.so.1 ) )

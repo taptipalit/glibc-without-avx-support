@@ -1,0 +1,1531 @@
+Archive member included to satisfy reference by file (symbol)
+
+/mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(check_fds.os)
+                              /mnt/Projects/tpalit/glibc/glibc-build/elf/dl-allobjs.os (__libc_check_standard_fds)
+/mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(errno.os)
+                              /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(check_fds.os) (__libc_errno)
+/mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(setjmp.os)
+                              /mnt/Projects/tpalit/glibc/glibc-build/elf/dl-allobjs.os (__sigsetjmp)
+/mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(__longjmp.os)
+                              /mnt/Projects/tpalit/glibc/glibc-build/elf/dl-allobjs.os (__longjmp)
+/mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(strchr.os)
+                              /mnt/Projects/tpalit/glibc/glibc-build/elf/dl-allobjs.os (strchr)
+/mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(strcmp.os)
+                              /mnt/Projects/tpalit/glibc/glibc-build/elf/dl-allobjs.os (strcmp)
+/mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(strdup.os)
+                              /mnt/Projects/tpalit/glibc/glibc-build/elf/dl-allobjs.os (__strdup)
+/mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(strlen.os)
+                              /mnt/Projects/tpalit/glibc/glibc-build/elf/dl-allobjs.os (strlen)
+/mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(strnlen.os)
+                              /mnt/Projects/tpalit/glibc/glibc-build/elf/dl-allobjs.os (strnlen)
+/mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(memchr.os)
+                              /mnt/Projects/tpalit/glibc/glibc-build/elf/dl-allobjs.os (memchr)
+/mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(memcmp.os)
+                              /mnt/Projects/tpalit/glibc/glibc-build/elf/dl-allobjs.os (memcmp)
+/mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(memmove.os)
+                              /mnt/Projects/tpalit/glibc/glibc-build/elf/dl-allobjs.os (memmove)
+/mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(memset.os)
+                              /mnt/Projects/tpalit/glibc/glibc-build/elf/dl-allobjs.os (memset)
+/mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(stpcpy.os)
+                              /mnt/Projects/tpalit/glibc/glibc-build/elf/dl-allobjs.os (__stpcpy)
+/mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(memcpy.os)
+                              /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(check_fds.os) (__GI_memcpy)
+/mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(wordcopy.os)
+                              /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(memmove.os) (_wordcopy_fwd_aligned)
+/mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(rawmemchr.os)
+                              /mnt/Projects/tpalit/glibc/glibc-build/elf/dl-allobjs.os (rawmemchr)
+/mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(strcmp-ssse3.os)
+                              /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(strcmp.os) (__strcmp_ssse3)
+/mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(strcmp-sse2-unaligned.os)
+                              /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(strcmp.os) (__strcmp_sse2_unaligned)
+/mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(memcmp-sse4.os)
+                              /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(memcmp.os) (__memcmp_sse4_1)
+/mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(memcpy-ssse3.os)
+                              /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(memcpy.os) (__memcpy_ssse3)
+/mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(memcpy-sse2-unaligned.os)
+                              /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(memcpy.os) (__memcpy_sse2_unaligned)
+/mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(memcpy-avx512-no-vzeroupper.os)
+                              /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(memcpy.os) (__memcpy_avx512_no_vzeroupper)
+/mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(memmove-ssse3.os)
+                              /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(memmove.os) (__memmove_ssse3)
+/mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(memmove-avx-unaligned.os)
+                              /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(memmove.os) (__memmove_avx_unaligned)
+/mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(memcpy-avx-unaligned.os)
+                              /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(memcpy.os) (__memcpy_avx_unaligned)
+/mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(memmove-ssse3-back.os)
+                              /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(memmove.os) (__memmove_ssse3_back)
+/mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(memmove-avx512-no-vzeroupper.os)
+                              /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(memmove.os) (__memmove_avx512_no_vzeroupper)
+/mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(stpcpy-ssse3.os)
+                              /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(stpcpy.os) (__stpcpy_ssse3)
+/mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(stpcpy-sse2-unaligned.os)
+                              /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(stpcpy.os) (__stpcpy_sse2_unaligned)
+/mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(strchr-sse2-no-bsf.os)
+                              /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(strchr.os) (__strchr_sse2_no_bsf)
+/mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(memcmp-ssse3.os)
+                              /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(memcmp.os) (__memcmp_ssse3)
+/mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(memset-avx2.os)
+                              /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(memset.os) (__memset_avx2)
+/mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(memset-avx512-no-vzeroupper.os)
+                              /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(memset.os) (__memset_avx512_no_vzeroupper)
+/mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(cacheinfo.os)
+                              /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(memmove-ssse3-back.os) (__x86_data_cache_size)
+/mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(closedir.os)
+                              /mnt/Projects/tpalit/glibc/glibc-build/elf/dl-allobjs.os (__closedir)
+/mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(readdir.os)
+                              /mnt/Projects/tpalit/glibc/glibc-build/elf/dl-allobjs.os (__readdir)
+/mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(rewinddir.os)
+                              /mnt/Projects/tpalit/glibc/glibc-build/elf/dl-allobjs.os (__rewinddir)
+/mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(getdents.os)
+                              /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(readdir.os) (__getdents)
+/mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(fdopendir.os)
+                              /mnt/Projects/tpalit/glibc/glibc-build/elf/dl-allobjs.os (__fdopendir)
+/mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(uname.os)
+                              /mnt/Projects/tpalit/glibc/glibc-build/elf/dl-allobjs.os (__uname)
+/mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(_exit.os)
+                              /mnt/Projects/tpalit/glibc/glibc-build/elf/dl-allobjs.os (__GI__exit)
+/mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(getpid.os)
+                              /mnt/Projects/tpalit/glibc/glibc-build/elf/dl-allobjs.os (__getpid)
+/mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(environ.os)
+                              /mnt/Projects/tpalit/glibc/glibc-build/elf/dl-allobjs.os (__environ)
+/mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(xstat.os)
+                              /mnt/Projects/tpalit/glibc/glibc-build/elf/dl-allobjs.os (__GI___xstat64)
+/mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(fxstat.os)
+                              /mnt/Projects/tpalit/glibc/glibc-build/elf/dl-allobjs.os (__GI___fxstat64)
+/mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(lxstat.os)
+                              /mnt/Projects/tpalit/glibc/glibc-build/elf/dl-allobjs.os (__GI___lxstat64)
+/mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(open.os)
+                              /mnt/Projects/tpalit/glibc/glibc-build/elf/dl-allobjs.os (__open)
+/mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(read.os)
+                              /mnt/Projects/tpalit/glibc/glibc-build/elf/dl-allobjs.os (__libc_read)
+/mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(write.os)
+                              /mnt/Projects/tpalit/glibc/glibc-build/elf/dl-allobjs.os (__libc_write)
+/mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(access.os)
+                              /mnt/Projects/tpalit/glibc/glibc-build/elf/dl-allobjs.os (__access)
+/mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(fcntl.os)
+                              /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(check_fds.os) (__GI___libc_fcntl)
+/mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(close.os)
+                              /mnt/Projects/tpalit/glibc/glibc-build/elf/dl-allobjs.os (__close)
+/mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(mmap.os)
+                              /mnt/Projects/tpalit/glibc/glibc-build/elf/dl-allobjs.os (__mmap)
+/mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(munmap.os)
+                              /mnt/Projects/tpalit/glibc/glibc-build/elf/dl-allobjs.os (__munmap)
+/mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(mprotect.os)
+                              /mnt/Projects/tpalit/glibc/glibc-build/elf/dl-allobjs.os (__mprotect)
+/mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(llseek.os)
+                              /mnt/Projects/tpalit/glibc/glibc-build/elf/dl-allobjs.os (__lseek)
+/mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(profil.os)
+                              /mnt/Projects/tpalit/glibc/glibc-build/elf/dl-allobjs.os (__profil)
+/mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(prof-freq.os)
+                              /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(profil.os) (__GI___profile_frequency)
+/mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(libc-lowlevellock.os)
+                              /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(readdir.os) (__lll_lock_wait_private)
+/mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(libc-cancellation.os)
+                              /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(open.os) (__libc_enable_asynccancel)
+/mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(libc_multiple_threads.os)
+                              /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(readdir.os) (__libc_multiple_threads)
+/mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(sigaction.os)
+                              /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(profil.os) (__GI___sigaction)
+/mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(setitimer.os)
+                              /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(profil.os) (__setitimer)
+/mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(forward.os)
+                              /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(libc-cancellation.os) (__pthread_unwind)
+/mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(exit.os)
+                              /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(forward.os) (__GI_exit)
+/mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(cxa_atexit.os)
+                              /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(exit.os) (__exit_funcs)
+/mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(cxa_thread_atexit_impl.os)
+                              /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(exit.os) (__GI___call_tls_dtors)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+START GROUP
+LOAD /mnt/Projects/tpalit/glibc/glibc-build/elf/dl-allobjs.os
+LOAD /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a
+LOAD /usr/lib/gcc/x86_64-linux-gnu/5/libgcc.a
+END GROUP
+
+.interp
+ *(.interp)
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.hash
+ *(.hash)
+
+.gnu.hash
+ *(.gnu.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rela.init
+ *(.rela.init)
+
+.rela.text
+ *(.rela.text)
+
+.rela.fini
+ *(.rela.fini)
+
+.rela.rodata
+ *(.rela.rodata)
+
+.rela.data.rel.ro
+ *(.rela.data.rel.ro)
+
+.rela.data
+ *(.rela.data)
+
+.rela.tdata
+ *(.rela.tdata)
+
+.rela.tbss
+ *(.rela.tbss)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rela.got
+ *(.rela.got)
+
+.rela.bss
+ *(.rela.bss)
+
+.rela.ldata
+ *(.rela.ldata)
+
+.rela.lbss
+ *(.rela.lbss)
+
+.rela.lrodata
+ *(.rela.lrodata)
+
+.rela.ifunc
+ *(.rela.ifunc)
+
+.rela.plt
+ *(.rela.plt)
+
+.init
+ *(SORT(.init))
+
+.plt
+ *(.plt)
+ *(.iplt)
+
+.plt.got
+ *(.plt.got)
+
+.plt.bnd
+ *(.plt.bnd)
+
+.text           0x0000000000000000    0x1e9f5
+ *(.text .stub)
+ .text          0x0000000000000000    0x179a0 /mnt/Projects/tpalit/glibc/glibc-build/elf/dl-allobjs.os
+                0x0000000000000000                _start
+                0x0000000000000008                _dl_start_user
+                0x0000000000000050                _dl_initial_error_catch_tsd
+                0x00000000000067c0                _dl_dst_count
+                0x0000000000006870                _dl_dst_substitute
+                0x0000000000007180                _dl_init_paths
+                0x00000000000075c0                _dl_map_object
+                0x0000000000007fc0                _dl_rtld_di_serinfo
+                0x0000000000008ed0                _dl_lookup_symbol_x
+                0x0000000000009fa0                _dl_setup_hash
+                0x000000000000a050                _dl_add_to_namespace_list
+                0x000000000000a0e0                _dl_new_object
+                0x000000000000a480                _dl_try_allocate_static_tls
+                0x000000000000a560                _dl_allocate_static_tls
+                0x000000000000a590                _dl_nothread_init_static_tls
+                0x000000000000a5e0                _dl_protect_relro
+                0x000000000000a640                _dl_reloc_bad_type
+                0x000000000000a710                _dl_relocate_object
+                0x000000000000bf00                _dl_map_object_deps
+                0x000000000000d1a0                _dl_important_hwcaps
+                0x000000000000d940                _dl_fixup
+                0x000000000000db10                _dl_profile_fixup
+                0x000000000000e110                _dl_call_pltexit
+                0x000000000000e220                _dl_signal_error
+                0x000000000000e3c0                _dl_signal_cerror
+                0x000000000000e450                _dl_catch_error
+                0x000000000000e520                _dl_receive_error
+                0x000000000000e6a0                _dl_init
+                0x000000000000e7d0                _dl_sort_fini
+                0x000000000000ea10                _dl_fini
+                0x000000000000eda0                _dl_debug_state
+                0x000000000000eda0                __GI__dl_debug_state
+                0x000000000000edb0                _dl_debug_initialize
+                0x000000000000f420                _dl_sysdep_read_whole_file
+                0x000000000000f4b0                _dl_debug_printf
+                0x000000000000f560                _dl_debug_printf_c
+                0x000000000000f610                _dl_dprintf
+                0x000000000000f6b0                _dl_name_match_p
+                0x000000000000f720                _dl_higher_prime_number
+                0x000000000000fba0                _dl_check_map_versions
+                0x0000000000010060                _dl_check_all_versions
+                0x00000000000100d0                _dl_start_profile
+                0x00000000000108b0                __GI__dl_mcount
+                0x00000000000108b0                _dl_mcount
+                0x0000000000010b10                _dl_resolve_conflicts
+                0x0000000000010f50                _dl_next_tls_modid
+                0x0000000000011050                _dl_count_modids
+                0x00000000000110b0                _dl_determine_tlsoffset
+                0x0000000000011280                __GI__dl_tls_setup
+                0x0000000000011280                _dl_tls_setup
+                0x0000000000011330                _dl_get_tls_static_info
+                0x0000000000011350                _dl_allocate_tls_storage
+                0x00000000000113f0                __GI__dl_allocate_tls_init
+                0x00000000000113f0                _dl_allocate_tls_init
+                0x0000000000011690                __GI__dl_allocate_tls
+                0x0000000000011690                _dl_allocate_tls
+                0x00000000000116d0                _dl_deallocate_tls
+                0x00000000000116d0                __GI__dl_deallocate_tls
+                0x0000000000011760                _dl_update_slotinfo
+                0x0000000000011a00                __GI___tls_get_addr
+                0x0000000000011a00                __tls_get_addr
+                0x0000000000011a40                _dl_tls_get_addr_soft
+                0x0000000000011ac0                _dl_add_to_slotinfo
+                0x0000000000011ba0                _dl_get_origin
+                0x0000000000011d20                _dl_scope_free
+                0x0000000000011df0                _dl_make_stack_executable
+                0x0000000000011df0                __GI__dl_make_stack_executable
+                0x0000000000011e80                _dl_check_caller
+                0x00000000000122b0                __GI__dl_find_dso_for_object
+                0x00000000000122b0                _dl_find_dso_for_object
+                0x00000000000123a0                _dl_open
+                0x00000000000127b0                _dl_show_scope
+                0x0000000000013270                _dl_addr_inside_object
+                0x0000000000013420                _dl_close_worker
+                0x0000000000014380                _dl_close
+                0x0000000000014410                _dl_runtime_resolve_avx512
+                0x0000000000014580                _dl_runtime_profile_avx512
+                0x0000000000014a00                _dl_runtime_resolve_avx
+                0x0000000000014b60                _dl_runtime_profile_avx
+                0x0000000000014fe0                _dl_runtime_resolve_sse
+                0x0000000000015110                _dl_runtime_profile_sse
+                0x0000000000015310                _dl_cache_libcmp
+                0x00000000000153f0                _dl_load_cache_lookup
+                0x00000000000159b0                _dl_unload_cache
+                0x00000000000159f0                _dl_make_tlsdesc_dynamic
+                0x0000000000015cc0                _dl_tlsdesc_resolve_rela_fixup
+                0x0000000000015e80                _dl_tlsdesc_resolve_hold_fixup
+                0x0000000000015ec0                _dl_unmap
+                0x0000000000015f40                _dl_tlsdesc_return
+                0x0000000000015f50                _dl_tlsdesc_undefweak
+                0x0000000000015f60                _dl_tlsdesc_dynamic
+                0x0000000000016000                _dl_tlsdesc_resolve_rela
+                0x0000000000016070                _dl_tlsdesc_resolve_hold
+                0x00000000000160f0                __get_cpu_features
+                0x0000000000016100                _dl_sysdep_start
+                0x00000000000166f0                _dl_sysdep_start_cleanup
+                0x0000000000016700                _dl_show_auxv
+                0x00000000000168b0                _dl_discover_osversion
+                0x0000000000016a80                _dl_next_ld_env_entry
+                0x0000000000016ad0                unsetenv
+                0x0000000000016b40                __libc_memalign
+                0x0000000000016c40                malloc
+                0x0000000000016c50                calloc
+                0x0000000000016c90                free
+                0x0000000000016cc0                __sigjmp_save
+                0x0000000000016cd0                __strerror_r
+                0x0000000000016db0                __GI___libc_fatal
+                0x0000000000016db0                __libc_fatal
+                0x0000000000016de0                __GI___chk_fail
+                0x0000000000016de0                __chk_fail
+                0x0000000000016df0                __GI___assert_fail
+                0x0000000000016df0                __assert_fail
+                0x0000000000016e40                realloc
+                0x0000000000016ed0                __GI___assert_perror_fail
+                0x0000000000016ed0                __assert_perror_fail
+                0x0000000000016f40                __strtoul_internal
+                0x0000000000017110                _itoa
+                0x0000000000017160                __strsep
+                0x0000000000017160                strsep
+                0x0000000000017160                __strsep_g
+                0x00000000000171f0                __brk
+                0x00000000000171f0                brk
+                0x0000000000017240                sbrk
+                0x0000000000017240                __sbrk
+                0x00000000000172d0                __getcwd
+                0x00000000000172d0                getcwd
+                0x0000000000017730                openat64
+                0x00000000000177a0                __alloc_dir
+                0x00000000000178a0                __opendir
+                0x00000000000178a0                opendir
+                0x0000000000017950                __fxstatat
+                0x0000000000017950                __fxstatat64
+                0x0000000000017950                __GI___fxstatat64
+ .text          0x00000000000179a0       0xf2 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(check_fds.os)
+                0x0000000000017a60                __libc_check_standard_fds
+ .text          0x0000000000017a92        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(errno.os)
+ *fill*         0x0000000000017a92        0xe 
+ .text          0x0000000000017aa0       0x57 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(setjmp.os)
+                0x0000000000017aa0                __sigsetjmp
+                0x0000000000017aa0                __GI___sigsetjmp
+ *fill*         0x0000000000017af7        0x9 
+ .text          0x0000000000017b00       0x50 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(__longjmp.os)
+                0x0000000000017b00                __longjmp
+ .text          0x0000000000017b50      0x24a /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(strchr.os)
+                0x0000000000017b50                index
+                0x0000000000017b50                strchr
+                0x0000000000017b80                __strchr_sse2
+                0x0000000000017b80                __GI_strchr
+ *fill*         0x0000000000017d9a        0x6 
+ .text          0x0000000000017da0     0x1479 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(strcmp.os)
+                0x0000000000017da0                strcmp
+                0x0000000000017de0                __strcmp_sse2
+                0x0000000000017de0                __GI_strcmp
+ *fill*         0x0000000000019219        0x7 
+ .text          0x0000000000019220       0x41 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(strdup.os)
+                0x0000000000019220                __GI___strdup
+                0x0000000000019220                __strdup
+                0x0000000000019220                strdup
+ *fill*         0x0000000000019261        0xf 
+ .text          0x0000000000019270      0x19c /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(strlen.os)
+                0x0000000000019270                strlen
+                0x0000000000019270                __GI_strlen
+ *fill*         0x000000000001940c        0x4 
+ .text          0x0000000000019410      0x218 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(strnlen.os)
+                0x0000000000019410                __strnlen
+                0x0000000000019410                strnlen
+                0x0000000000019410                __GI___strnlen
+                0x0000000000019410                __GI_strnlen
+ *fill*         0x0000000000019628        0x8 
+ .text          0x0000000000019630      0x344 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(memchr.os)
+                0x0000000000019630                __GI_memchr
+                0x0000000000019630                memchr
+                0x0000000000019630                __memchr
+ *fill*         0x0000000000019974        0xc 
+ .text          0x0000000000019980      0x440 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(memcmp.os)
+                0x0000000000019980                bcmp
+                0x0000000000019980                memcmp
+                0x00000000000199c0                __GI_memcmp
+                0x00000000000199c0                __memcmp_sse2
+ .text          0x0000000000019dc0      0x1b1 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(memmove.os)
+                0x0000000000019dc0                __GI_memmove
+                0x0000000000019dc0                __memmove_sse2
+                0x0000000000019f1a                memmove
+                0x0000000000019f1a                memcpy@GLIBC_2.2.5
+                0x0000000000019f1a                __libc_memmove
+ *fill*         0x0000000000019f71        0xf 
+ .text          0x0000000000019f80      0x173 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(memset.os)
+                0x0000000000019f80                memset
+                0x0000000000019fd0                __bzero
+                0x0000000000019fd0                bzero
+                0x0000000000019fe0                __memset_tail
+                0x000000000001a000                __memset_chk_sse2
+                0x000000000001a010                __GI_memset
+                0x000000000001a010                __memset_sse2
+ *fill*         0x000000000001a0f3        0xd 
+ .text          0x000000000001a100      0x11c /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(stpcpy.os)
+                0x000000000001a100                stpcpy
+                0x000000000001a100                __stpcpy
+                0x000000000001a140                __GI_stpcpy
+                0x000000000001a140                __GI___stpcpy
+                0x000000000001a140                __stpcpy_sse2
+ *fill*         0x000000000001a21c        0x4 
+ .text          0x000000000001a220      0x4e5 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(memcpy.os)
+                0x000000000001a220                __new_memcpy
+                0x000000000001a220                memcpy@@GLIBC_2.14
+                0x000000000001a290                __memcpy_chk_sse2
+                0x000000000001a2a0                __memcpy_sse2
+                0x000000000001a2a0                __GI_memcpy
+ *fill*         0x000000000001a705        0xb 
+ .text          0x000000000001a710      0x556 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(wordcopy.os)
+                0x000000000001a710                _wordcopy_fwd_aligned
+                0x000000000001a850                _wordcopy_fwd_dest_aligned
+                0x000000000001a980                _wordcopy_bwd_aligned
+                0x000000000001ab10                _wordcopy_bwd_dest_aligned
+ *fill*         0x000000000001ac66        0xa 
+ .text          0x000000000001ac70      0x204 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(rawmemchr.os)
+                0x000000000001ac70                __GI___rawmemchr
+                0x000000000001ac70                __rawmemchr
+                0x000000000001ac70                rawmemchr
+ .text          0x000000000001ae74        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(strcmp-ssse3.os)
+ *fill*         0x000000000001ae74        0xc 
+ .text          0x000000000001ae80      0x2a3 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(strcmp-sse2-unaligned.os)
+                0x000000000001ae80                __strcmp_sse2_unaligned
+ .text          0x000000000001b123        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(memcmp-sse4.os)
+ .text          0x000000000001b123        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(memcpy-ssse3.os)
+ *fill*         0x000000000001b123        0xd 
+ .text          0x000000000001b130      0x217 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(memcpy-sse2-unaligned.os)
+                0x000000000001b130                __memcpy_sse2_unaligned
+ *fill*         0x000000000001b347        0x9 
+ .text          0x000000000001b350      0x748 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(memcpy-avx512-no-vzeroupper.os)
+                0x000000000001b350                __memcpy_chk_avx512_no_vzeroupper
+                0x000000000001b360                __memcpy_avx512_no_vzeroupper
+ .text          0x000000000001ba98        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(memmove-ssse3.os)
+ .text          0x000000000001ba98        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(memmove-avx-unaligned.os)
+ .text          0x000000000001ba98        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(memcpy-avx-unaligned.os)
+ .text          0x000000000001ba98        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(memmove-ssse3-back.os)
+ *fill*         0x000000000001ba98        0x8 
+ .text          0x000000000001baa0      0x748 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(memmove-avx512-no-vzeroupper.os)
+                0x000000000001baa0                __memmove_chk_avx512_no_vzeroupper
+                0x000000000001bab0                __memmove_avx512_no_vzeroupper
+ .text          0x000000000001c1e8        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(stpcpy-ssse3.os)
+ *fill*         0x000000000001c1e8        0x8 
+ .text          0x000000000001c1f0      0x6b0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(stpcpy-sse2-unaligned.os)
+                0x000000000001c1f0                __stpcpy_sse2_unaligned
+ .text          0x000000000001c8a0        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(strchr-sse2-no-bsf.os)
+ .text          0x000000000001c8a0        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(memcmp-ssse3.os)
+ .text          0x000000000001c8a0        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(memset-avx2.os)
+ .text          0x000000000001c8a0      0x280 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(memset-avx512-no-vzeroupper.os)
+                0x000000000001c8a0                __memset_chk_avx512_no_vzeroupper
+                0x000000000001c8b0                __memset_avx512_no_vzeroupper
+ .text          0x000000000001cb20      0x5c0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(cacheinfo.os)
+                0x000000000001d0b0                __cache_sysconf
+ .text          0x000000000001d0e0       0x54 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(closedir.os)
+                0x000000000001d0e0                __closedir
+                0x000000000001d0e0                closedir
+ *fill*         0x000000000001d134        0xc 
+ .text          0x000000000001d140       0xf8 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(readdir.os)
+                0x000000000001d140                readdir
+                0x000000000001d140                __readdir64
+                0x000000000001d140                __readdir
+                0x000000000001d140                readdir64
+ *fill*         0x000000000001d238        0x8 
+ .text          0x000000000001d240       0x93 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(rewinddir.os)
+                0x000000000001d240                rewinddir
+                0x000000000001d240                __rewinddir
+                0x000000000001d240                __GI___rewinddir
+ *fill*         0x000000000001d2d3        0xd 
+ .text          0x000000000001d2e0       0x8d /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(getdents.os)
+                0x000000000001d2e0                __getdents
+                0x000000000001d2e0                __getdents64
+ *fill*         0x000000000001d36d        0x3 
+ .text          0x000000000001d370       0x9a /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(fdopendir.os)
+                0x000000000001d370                fdopendir
+                0x000000000001d370                __fdopendir
+ *fill*         0x000000000001d40a        0x6 
+ .text          0x000000000001d410       0x21 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(uname.os)
+                0x000000000001d410                uname
+                0x000000000001d410                __GI_uname
+                0x000000000001d410                __uname
+                0x000000000001d410                __GI___uname
+ *fill*         0x000000000001d431        0xf 
+ .text          0x000000000001d440       0x58 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(_exit.os)
+                0x000000000001d440                _Exit
+                0x000000000001d440                __GI__exit
+                0x000000000001d440                _exit
+ *fill*         0x000000000001d498        0x8 
+ .text          0x000000000001d4a0       0x3c /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(getpid.os)
+                0x000000000001d4a0                __getpid
+                0x000000000001d4a0                getpid
+                0x000000000001d4a0                __GI_getpid
+                0x000000000001d4a0                __GI___getpid
+ .text          0x000000000001d4dc        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(environ.os)
+ *fill*         0x000000000001d4dc        0x4 
+ .text          0x000000000001d4e0       0x4c /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(xstat.os)
+                0x000000000001d4e0                _xstat
+                0x000000000001d4e0                __xstat64
+                0x000000000001d4e0                __GI___xstat64
+                0x000000000001d4e0                __GI___xstat
+                0x000000000001d4e0                __xstat
+ *fill*         0x000000000001d52c        0x4 
+ .text          0x000000000001d530       0x4c /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(fxstat.os)
+                0x000000000001d530                __GI___fxstat
+                0x000000000001d530                __GI___fxstat64
+                0x000000000001d530                __fxstat64
+                0x000000000001d530                _fxstat
+                0x000000000001d530                __fxstat
+ *fill*         0x000000000001d57c        0x4 
+ .text          0x000000000001d580       0x4c /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(lxstat.os)
+                0x000000000001d580                __GI___lxstat
+                0x000000000001d580                _lxstat
+                0x000000000001d580                __lxstat
+                0x000000000001d580                __lxstat64
+                0x000000000001d580                __GI___lxstat64
+ *fill*         0x000000000001d5cc        0x4 
+ .text          0x000000000001d5d0       0x5a /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(open.os)
+                0x000000000001d5d0                __GI___open64
+                0x000000000001d5d0                __open
+                0x000000000001d5d0                __GI_open
+                0x000000000001d5d0                __GI___open
+                0x000000000001d5d0                __GI_open64
+                0x000000000001d5d0                __libc_open
+                0x000000000001d5d0                open64
+                0x000000000001d5d0                __GI___libc_open
+                0x000000000001d5d0                open
+                0x000000000001d5d0                __open64
+                0x000000000001d5d9                __open_nocancel
+ *fill*         0x000000000001d62a        0x6 
+ .text          0x000000000001d630       0x5a /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(read.os)
+                0x000000000001d630                __read
+                0x000000000001d630                __GI_read
+                0x000000000001d630                __libc_read
+                0x000000000001d630                __GI___read
+                0x000000000001d630                read
+                0x000000000001d630                __GI___libc_read
+                0x000000000001d639                __read_nocancel
+ *fill*         0x000000000001d68a        0x6 
+ .text          0x000000000001d690       0x5a /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(write.os)
+                0x000000000001d690                __write
+                0x000000000001d690                __GI_write
+                0x000000000001d690                write
+                0x000000000001d690                __GI___libc_write
+                0x000000000001d690                __GI___write
+                0x000000000001d690                __libc_write
+                0x000000000001d699                __write_nocancel
+ *fill*         0x000000000001d6ea        0x6 
+ .text          0x000000000001d6f0       0x21 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(access.os)
+                0x000000000001d6f0                __GI_access
+                0x000000000001d6f0                __GI___access
+                0x000000000001d6f0                access
+                0x000000000001d6f0                __access
+ *fill*         0x000000000001d711        0xf 
+ .text          0x000000000001d720      0x110 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(fcntl.os)
+                0x000000000001d790                __fcntl_nocancel
+                0x000000000001d7c0                __libc_fcntl
+                0x000000000001d7c0                __GI___libc_fcntl
+                0x000000000001d7c0                __GI___fcntl
+                0x000000000001d7c0                __fcntl
+                0x000000000001d7c0                fcntl
+ .text          0x000000000001d830       0x5a /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(close.os)
+                0x000000000001d830                __GI_close
+                0x000000000001d830                __GI___libc_close
+                0x000000000001d830                __libc_close
+                0x000000000001d830                __close
+                0x000000000001d830                __GI___close
+                0x000000000001d830                close
+                0x000000000001d839                __close_nocancel
+ *fill*         0x000000000001d88a        0x6 
+ .text          0x000000000001d890       0xbe /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(mmap.os)
+                0x000000000001d890                __mmap
+                0x000000000001d890                mmap
+                0x000000000001d890                __mmap64
+                0x000000000001d890                mmap64
+ *fill*         0x000000000001d94e        0x2 
+ .text          0x000000000001d950       0x21 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(munmap.os)
+                0x000000000001d950                munmap
+                0x000000000001d950                __GI___munmap
+                0x000000000001d950                __GI_munmap
+                0x000000000001d950                __munmap
+ *fill*         0x000000000001d971        0xf 
+ .text          0x000000000001d980       0x21 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(mprotect.os)
+                0x000000000001d980                __mprotect
+                0x000000000001d980                __GI___mprotect
+                0x000000000001d980                __GI_mprotect
+                0x000000000001d980                mprotect
+ *fill*         0x000000000001d9a1        0xf 
+ .text          0x000000000001d9b0       0x21 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(llseek.os)
+                0x000000000001d9b0                __GI___lseek
+                0x000000000001d9b0                __GI_lseek64
+                0x000000000001d9b0                __llseek
+                0x000000000001d9b0                __GI_llseek
+                0x000000000001d9b0                __lseek64
+                0x000000000001d9b0                lseek
+                0x000000000001d9b0                __libc_lseek64
+                0x000000000001d9b0                __GI___libc_lseek64
+                0x000000000001d9b0                __GI___libc_lseek
+                0x000000000001d9b0                llseek
+                0x000000000001d9b0                __lseek
+                0x000000000001d9b0                __GI___lseek64
+                0x000000000001d9b0                __libc_lseek
+                0x000000000001d9b0                __GI___llseek
+                0x000000000001d9b0                __GI_lseek
+                0x000000000001d9b0                lseek64
+ *fill*         0x000000000001d9d1        0xf 
+ .text          0x000000000001d9e0      0x1ce /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(profil.os)
+                0x000000000001da30                __profil
+                0x000000000001da30                profil
+ *fill*         0x000000000001dbae        0x2 
+ .text          0x000000000001dbb0        0xb /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(prof-freq.os)
+                0x000000000001dbb0                __GI___profile_frequency
+                0x000000000001dbb0                __profile_frequency
+ *fill*         0x000000000001dbbb        0x5 
+ .text          0x000000000001dbc0       0x4c /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(libc-lowlevellock.os)
+                0x000000000001dbc0                __lll_lock_wait_private
+                0x000000000001dbf0                __lll_unlock_wake_private
+ *fill*         0x000000000001dc0c        0x4 
+ .text          0x000000000001dc10       0xb9 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(libc-cancellation.os)
+                0x000000000001dc10                __libc_enable_asynccancel
+                0x000000000001dc70                __libc_disable_asynccancel
+ .text          0x000000000001dcc9        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(libc_multiple_threads.os)
+ *fill*         0x000000000001dcc9        0x7 
+ .text          0x000000000001dcd0      0x274 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(sigaction.os)
+                0x000000000001dcf0                __libc_sigaction
+                0x000000000001dcf0                __GI___libc_sigaction
+                0x000000000001df20                sigaction
+                0x000000000001df20                __GI___sigaction
+                0x000000000001df20                __sigaction
+ *fill*         0x000000000001df44        0xc 
+ .text          0x000000000001df50       0x21 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(setitimer.os)
+                0x000000000001df50                setitimer
+                0x000000000001df50                __setitimer
+                0x000000000001df50                __GI_setitimer
+                0x000000000001df50                __GI___setitimer
+ *fill*         0x000000000001df71        0xf 
+ .text          0x000000000001df80      0x5c6 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(forward.os)
+                0x000000000001df80                pthread_equal
+                0x000000000001dfb0                pthread_attr_destroy
+                0x000000000001dfe0                pthread_attr_init@@GLIBC_2.2.5
+                0x000000000001dfe0                __pthread_attr_init_2_1
+                0x000000000001e010                pthread_attr_getdetachstate
+                0x000000000001e040                pthread_attr_setdetachstate
+                0x000000000001e070                pthread_attr_getinheritsched
+                0x000000000001e0a0                pthread_attr_setinheritsched
+                0x000000000001e0d0                pthread_attr_getschedparam
+                0x000000000001e100                pthread_attr_setschedparam
+                0x000000000001e130                pthread_attr_getschedpolicy
+                0x000000000001e160                pthread_attr_setschedpolicy
+                0x000000000001e190                pthread_attr_getscope
+                0x000000000001e1c0                pthread_attr_setscope
+                0x000000000001e1f0                pthread_condattr_destroy
+                0x000000000001e220                pthread_condattr_init
+                0x000000000001e250                pthread_cond_broadcast@@GLIBC_2.3.2
+                0x000000000001e250                __pthread_cond_broadcast
+                0x000000000001e280                pthread_cond_destroy@@GLIBC_2.3.2
+                0x000000000001e280                __pthread_cond_destroy
+                0x000000000001e2b0                pthread_cond_init@@GLIBC_2.3.2
+                0x000000000001e2b0                __pthread_cond_init
+                0x000000000001e2e0                pthread_cond_signal@@GLIBC_2.3.2
+                0x000000000001e2e0                __pthread_cond_signal
+                0x000000000001e310                pthread_cond_wait@@GLIBC_2.3.2
+                0x000000000001e310                __pthread_cond_wait
+                0x000000000001e340                pthread_cond_timedwait@@GLIBC_2.3.2
+                0x000000000001e340                __pthread_cond_timedwait
+                0x000000000001e370                pthread_exit
+                0x000000000001e370                __pthread_exit
+                0x000000000001e3a0                pthread_getschedparam
+                0x000000000001e3d0                pthread_setschedparam
+                0x000000000001e400                pthread_mutex_destroy
+                0x000000000001e430                pthread_mutex_init
+                0x000000000001e460                pthread_mutex_lock
+                0x000000000001e490                pthread_mutex_unlock
+                0x000000000001e4c0                pthread_self
+                0x000000000001e4f0                __pthread_setcancelstate
+                0x000000000001e4f0                pthread_setcancelstate
+                0x000000000001e520                pthread_setcanceltype
+ *fill*         0x000000000001e546        0xa 
+ .text          0x000000000001e550      0x135 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(exit.os)
+                0x000000000001e550                __run_exit_handlers
+                0x000000000001e670                __GI_exit
+                0x000000000001e670                exit
+ *fill*         0x000000000001e685        0xb 
+ .text          0x000000000001e690      0x22f /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(cxa_atexit.os)
+                0x000000000001e690                __new_exitfn
+                0x000000000001e820                __internal_atexit
+                0x000000000001e870                __cxa_atexit
+                0x000000000001e870                __GI___cxa_atexit
+ *fill*         0x000000000001e8bf        0x1 
+ .text          0x000000000001e8c0      0x135 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(cxa_thread_atexit_impl.os)
+                0x000000000001e8c0                __cxa_thread_atexit_impl
+                0x000000000001e990                __GI___call_tls_dtors
+                0x000000000001e990                __call_tls_dtors
+ *(.gnu.warning)
+
+.text.unlikely  0x0000000000000000      0x1f3
+ .text.unlikely
+                0x0000000000000000      0x1f3 /mnt/Projects/tpalit/glibc/glibc-build/elf/dl-allobjs.os
+ .text.unlikely
+                0x00000000000001f3        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(check_fds.os)
+ .text.unlikely
+                0x00000000000001f3        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(strdup.os)
+ .text.unlikely
+                0x00000000000001f3        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(memmove.os)
+ .text.unlikely
+                0x00000000000001f3        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(wordcopy.os)
+ .text.unlikely
+                0x00000000000001f3        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(cacheinfo.os)
+ .text.unlikely
+                0x00000000000001f3        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(closedir.os)
+ .text.unlikely
+                0x00000000000001f3        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(readdir.os)
+ .text.unlikely
+                0x00000000000001f3        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(rewinddir.os)
+ .text.unlikely
+                0x00000000000001f3        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(getdents.os)
+ .text.unlikely
+                0x00000000000001f3        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(fdopendir.os)
+ .text.unlikely
+                0x00000000000001f3        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(_exit.os)
+ .text.unlikely
+                0x00000000000001f3        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(getpid.os)
+ .text.unlikely
+                0x00000000000001f3        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(xstat.os)
+ .text.unlikely
+                0x00000000000001f3        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(fxstat.os)
+ .text.unlikely
+                0x00000000000001f3        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(lxstat.os)
+ .text.unlikely
+                0x00000000000001f3        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(fcntl.os)
+ .text.unlikely
+                0x00000000000001f3        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(mmap.os)
+ .text.unlikely
+                0x00000000000001f3        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(profil.os)
+ .text.unlikely
+                0x00000000000001f3        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(prof-freq.os)
+ .text.unlikely
+                0x00000000000001f3        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(sigaction.os)
+ .text.unlikely
+                0x00000000000001f3        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(forward.os)
+ .text.unlikely
+                0x00000000000001f3        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(exit.os)
+ .text.unlikely
+                0x00000000000001f3        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(cxa_atexit.os)
+ .text.unlikely
+                0x00000000000001f3        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(cxa_thread_atexit_impl.os)
+
+.text.sse4.2    0x0000000000000000      0xda9
+ .text.sse4.2   0x0000000000000000      0xda9 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(strcmp.os)
+                0x0000000000000000                __strcmp_sse42
+
+.text.ssse3     0x0000000000000000     0xaad3
+ .text.ssse3    0x0000000000000000     0x1259 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(strcmp-ssse3.os)
+                0x0000000000000000                __GI___strcmp_ssse3
+                0x0000000000000000                __strcmp_ssse3
+ *fill*         0x0000000000001259        0x7 
+ .text.ssse3    0x0000000000001260     0x29c6 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(memcpy-ssse3.os)
+                0x0000000000001260                __memcpy_chk_ssse3
+                0x0000000000001270                __memcpy_ssse3
+ *fill*         0x0000000000003c26        0xa 
+ .text.ssse3    0x0000000000003c30     0x2b77 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(memmove-ssse3.os)
+                0x0000000000003c30                __memmove_chk_ssse3
+                0x0000000000003c40                __memmove_ssse3
+ *fill*         0x00000000000067a7        0x9 
+ .text.ssse3    0x00000000000067b0     0x2b16 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(memmove-ssse3-back.os)
+                0x00000000000067b0                __memmove_chk_ssse3_back
+                0x00000000000067c0                __memmove_ssse3_back
+ *fill*         0x00000000000092c6        0xa 
+ .text.ssse3    0x00000000000092d0     0x1803 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(stpcpy-ssse3.os)
+                0x00000000000092d0                __stpcpy_ssse3
+
+.text.sse4.1    0x0000000000000000     0x163e
+ .text.sse4.1   0x0000000000000000     0x163e /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(memcmp-sse4.os)
+                0x0000000000000000                __memcmp_sse4_1
+
+.text.avx       0x0000000000000000      0x886
+ .text.avx      0x0000000000000000      0x4eb /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(memmove-avx-unaligned.os)
+                0x0000000000000000                __memmove_chk_avx_unaligned
+                0x0000000000000010                __memmove_avx_unaligned
+ *fill*         0x00000000000004eb        0x5 
+ .text.avx      0x00000000000004f0      0x396 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(memcpy-avx-unaligned.os)
+                0x00000000000004f0                __memcpy_chk_avx_unaligned
+                0x0000000000000500                __memcpy_avx_unaligned
+
+.text.atom      0x0000000000000000     0x1a83
+ .text.atom     0x0000000000000000      0x315 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(strchr-sse2-no-bsf.os)
+                0x0000000000000000                __strchr_sse2_no_bsf
+ *fill*         0x0000000000000315        0xb 
+ .text.atom     0x0000000000000320     0x1763 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(memcmp-ssse3.os)
+                0x0000000000000320                __memcmp_ssse3
+
+.text.avx2      0x0000000000000000      0x1a4
+ .text.avx2     0x0000000000000000      0x1a4 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(memset-avx2.os)
+                0x0000000000000000                __memset_chk_avx2
+                0x0000000000000010                __memset_avx2
+
+.text.startup   0x0000000000000000      0x2a0
+ .text.startup  0x0000000000000000      0x2a0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(cacheinfo.os)
+
+.text.compat    0x0000000000000000      0x160
+ .text.compat   0x0000000000000000      0x160 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(forward.os)
+                0x0000000000000000                pthread_cond_broadcast@GLIBC_2.2.5
+                0x0000000000000000                __pthread_cond_broadcast_2_0
+                0x0000000000000030                __pthread_cond_destroy_2_0
+                0x0000000000000030                pthread_cond_destroy@GLIBC_2.2.5
+                0x0000000000000060                __pthread_cond_init_2_0
+                0x0000000000000060                pthread_cond_init@GLIBC_2.2.5
+                0x0000000000000090                __pthread_cond_signal_2_0
+                0x0000000000000090                pthread_cond_signal@GLIBC_2.2.5
+                0x00000000000000c0                pthread_cond_wait@GLIBC_2.2.5
+                0x00000000000000c0                __pthread_cond_wait_2_0
+                0x00000000000000f0                pthread_cond_timedwait@GLIBC_2.2.5
+                0x00000000000000f0                __pthread_cond_timedwait_2_0
+                0x0000000000000120                __pthread_unwind
+
+.fini
+ *(SORT(.fini))
+
+.rodata         0x0000000000000000     0x10a0
+ *(.rodata)
+ .rodata        0x0000000000000000      0xc70 /mnt/Projects/tpalit/glibc/glibc-build/elf/dl-allobjs.os
+                0x0000000000000c60                __GI__itoa_lower_digits
+                0x0000000000000c60                _itoa_lower_digits
+ .rodata        0x0000000000000c70       0x40 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(strcmp.os)
+ .rodata        0x0000000000000cb0       0x40 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(wordcopy.os)
+ .rodata        0x0000000000000cf0       0x40 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(strcmp-ssse3.os)
+ .rodata        0x0000000000000d30       0x80 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(stpcpy-sse2-unaligned.os)
+ *fill*         0x0000000000000db0       0x10 
+ .rodata        0x0000000000000dc0      0x2e0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(cacheinfo.os)
+
+.rodata.str1.1  0x0000000000000000      0xfa3
+ .rodata.str1.1
+                0x0000000000000000      0xf30 /mnt/Projects/tpalit/glibc/glibc-build/elf/dl-allobjs.os
+ .rodata.str1.1
+                0x0000000000000f30       0x14 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(check_fds.os)
+ .rodata.str1.1
+                0x0000000000000f44       0x48 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(cacheinfo.os)
+ .rodata.str1.1
+                0x0000000000000f8c       0x17 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(cxa_atexit.os)
+
+.rodata.str1.8  0x0000000000000000     0x237d
+ .rodata.str1.8
+                0x0000000000000000     0x2349 /mnt/Projects/tpalit/glibc/glibc-build/elf/dl-allobjs.os
+ *fill*         0x0000000000002349        0x7 
+ .rodata.str1.8
+                0x0000000000002350       0x1d /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(cacheinfo.os)
+ *fill*         0x000000000000236d        0x3 
+ .rodata.str1.8
+                0x0000000000002370        0xd /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(cxa_atexit.os)
+
+.rodata.str1.16
+                0x0000000000000000      0x391
+ .rodata.str1.16
+                0x0000000000000000      0x373 /mnt/Projects/tpalit/glibc/glibc-build/elf/dl-allobjs.os
+ *fill*         0x0000000000000373        0xd 
+ .rodata.str1.16
+                0x0000000000000380       0x11 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(cacheinfo.os)
+
+.rodata.cst16   0x0000000000000000       0x20
+ .rodata.cst16  0x0000000000000000       0x20 /mnt/Projects/tpalit/glibc/glibc-build/elf/dl-allobjs.os
+
+.rodata.cst4    0x0000000000000000        0x4
+ .rodata.cst4   0x0000000000000000        0x4 /mnt/Projects/tpalit/glibc/glibc-build/elf/dl-allobjs.os
+
+.rodata.str1.32
+                0x0000000000000000       0x7b
+ .rodata.str1.32
+                0x0000000000000000       0x7b /mnt/Projects/tpalit/glibc/glibc-build/elf/dl-allobjs.os
+
+.rodata.sse4.2  0x0000000000000000       0x40
+ .rodata.sse4.2
+                0x0000000000000000       0x40 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(strcmp.os)
+
+.rodata.sse4.1  0x0000000000000000      0x140
+ .rodata.sse4.1
+                0x0000000000000000      0x140 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(memcmp-sse4.os)
+
+.rodata.ssse3   0x0000000000000000      0x880
+ .rodata.ssse3  0x0000000000000000      0x1c0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(memcpy-ssse3.os)
+ .rodata.ssse3  0x00000000000001c0      0x1c0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(memmove-ssse3.os)
+ .rodata.ssse3  0x0000000000000380      0x500 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(memmove-ssse3-back.os)
+
+.rodata1
+ *(.rodata1)
+
+.eh_frame_hdr
+ *(.eh_frame_hdr)
+
+.eh_frame       0x0000000000000000     0x39e0
+ *(.eh_frame)
+ .eh_frame      0x0000000000000000     0x21f0 /mnt/Projects/tpalit/glibc/glibc-build/elf/dl-allobjs.os
+ .eh_frame      0x00000000000021f0       0x68 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(check_fds.os)
+ .eh_frame      0x0000000000002258       0x30 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(setjmp.os)
+ .eh_frame      0x0000000000002288       0x48 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(__longjmp.os)
+ .eh_frame      0x00000000000022d0       0x48 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(strchr.os)
+                                         0x40 (size before relaxing)
+ .eh_frame      0x0000000000002318       0x60 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(strcmp.os)
+                                         0x58 (size before relaxing)
+ .eh_frame      0x0000000000002378       0x50 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(strdup.os)
+ .eh_frame      0x00000000000023c8       0x30 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(strlen.os)
+ .eh_frame      0x00000000000023f8       0x30 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(strnlen.os)
+ .eh_frame      0x0000000000002428       0x30 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(memchr.os)
+ .eh_frame      0x0000000000002458       0x48 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(memcmp.os)
+                                         0x40 (size before relaxing)
+ .eh_frame      0x00000000000024a0       0x80 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(memmove.os)
+ .eh_frame      0x0000000000002520       0x90 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(memset.os)
+                                         0x80 (size before relaxing)
+ .eh_frame      0x00000000000025b0       0x48 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(stpcpy.os)
+                                         0x40 (size before relaxing)
+ .eh_frame      0x00000000000025f8       0x88 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(memcpy.os)
+                                         0x80 (size before relaxing)
+ .eh_frame      0x0000000000002680       0x98 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(wordcopy.os)
+                                         0x90 (size before relaxing)
+ .eh_frame      0x0000000000002718       0x30 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(rawmemchr.os)
+ .eh_frame      0x0000000000002748       0x30 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(strcmp-ssse3.os)
+ .eh_frame      0x0000000000002778       0x30 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(strcmp-sse2-unaligned.os)
+ .eh_frame      0x00000000000027a8       0x30 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(memcmp-sse4.os)
+ .eh_frame      0x00000000000027d8       0x48 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(memcpy-ssse3.os)
+                                         0x40 (size before relaxing)
+ .eh_frame      0x0000000000002820       0x30 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(memcpy-sse2-unaligned.os)
+ .eh_frame      0x0000000000002850       0x48 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(memcpy-avx512-no-vzeroupper.os)
+                                         0x40 (size before relaxing)
+ .eh_frame      0x0000000000002898       0x48 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(memmove-ssse3.os)
+                                         0x40 (size before relaxing)
+ .eh_frame      0x00000000000028e0       0x48 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(memmove-avx-unaligned.os)
+                                         0x40 (size before relaxing)
+ .eh_frame      0x0000000000002928       0x48 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(memcpy-avx-unaligned.os)
+                                         0x40 (size before relaxing)
+ .eh_frame      0x0000000000002970       0x48 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(memmove-ssse3-back.os)
+                                         0x40 (size before relaxing)
+ .eh_frame      0x00000000000029b8       0x48 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(memmove-avx512-no-vzeroupper.os)
+                                         0x40 (size before relaxing)
+ .eh_frame      0x0000000000002a00       0x30 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(stpcpy-ssse3.os)
+ .eh_frame      0x0000000000002a30       0x30 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(stpcpy-sse2-unaligned.os)
+ .eh_frame      0x0000000000002a60       0x30 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(strchr-sse2-no-bsf.os)
+ .eh_frame      0x0000000000002a90       0x30 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(memcmp-ssse3.os)
+ .eh_frame      0x0000000000002ac0       0x48 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(memset-avx2.os)
+                                         0x40 (size before relaxing)
+ .eh_frame      0x0000000000002b08       0x48 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(memset-avx512-no-vzeroupper.os)
+                                         0x40 (size before relaxing)
+ .eh_frame      0x0000000000002b50      0x1c8 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(cacheinfo.os)
+                                        0x1c0 (size before relaxing)
+ .eh_frame      0x0000000000002d18       0x40 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(closedir.os)
+ .eh_frame      0x0000000000002d58       0x68 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(readdir.os)
+ .eh_frame      0x0000000000002dc0       0x40 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(rewinddir.os)
+ .eh_frame      0x0000000000002e00       0x68 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(getdents.os)
+ .eh_frame      0x0000000000002e68       0x50 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(fdopendir.os)
+ .eh_frame      0x0000000000002eb8       0x30 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(uname.os)
+ .eh_frame      0x0000000000002ee8       0x30 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(_exit.os)
+ .eh_frame      0x0000000000002f18       0x30 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(getpid.os)
+ .eh_frame      0x0000000000002f48       0x30 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(xstat.os)
+ .eh_frame      0x0000000000002f78       0x30 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(fxstat.os)
+ .eh_frame      0x0000000000002fa8       0x30 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(lxstat.os)
+ .eh_frame      0x0000000000002fd8       0x30 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(open.os)
+ .eh_frame      0x0000000000003008       0x30 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(read.os)
+ .eh_frame      0x0000000000003038       0x30 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(write.os)
+ .eh_frame      0x0000000000003068       0x30 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(access.os)
+ .eh_frame      0x0000000000003098       0x70 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(fcntl.os)
+                                         0x68 (size before relaxing)
+ .eh_frame      0x0000000000003108       0x30 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(close.os)
+ .eh_frame      0x0000000000003138       0x60 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(mmap.os)
+ .eh_frame      0x0000000000003198       0x30 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(munmap.os)
+ .eh_frame      0x00000000000031c8       0x30 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(mprotect.os)
+ .eh_frame      0x00000000000031f8       0x30 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(llseek.os)
+ .eh_frame      0x0000000000003228       0x80 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(profil.os)
+ .eh_frame      0x00000000000032a8       0x30 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(prof-freq.os)
+ .eh_frame      0x00000000000032d8       0x68 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(libc-lowlevellock.os)
+                                         0x60 (size before relaxing)
+ .eh_frame      0x0000000000003340       0x48 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(libc-cancellation.os)
+                                         0x40 (size before relaxing)
+ .eh_frame      0x0000000000003388       0xf0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(sigaction.os)
+                                         0xe8 (size before relaxing)
+ .eh_frame      0x0000000000003478       0x30 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(setitimer.os)
+ .eh_frame      0x00000000000034a8      0x3a8 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(forward.os)
+                                        0x310 (size before relaxing)
+ .eh_frame      0x0000000000003850       0x58 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(exit.os)
+ .eh_frame      0x00000000000038a8       0xb8 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(cxa_atexit.os)
+                                         0xb0 (size before relaxing)
+ .eh_frame      0x0000000000003960       0x80 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(cxa_thread_atexit_impl.os)
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.gnu_extab
+ *(.gnu_extab*)
+
+.exception_ranges
+ *(.exception_ranges .exception_ranges*)
+
+.eh_frame
+ *(.eh_frame)
+
+.gnu_extab
+ *(.gnu_extab)
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.exception_ranges
+ *(.exception_ranges .exception_ranges*)
+
+.tdata
+ *(.tdata)
+
+.tbss           0x0000000000000000       0x18
+ *(.tbss)
+ .tbss          0x0000000000000000        0x4 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(errno.os)
+                0x0000000000000000                errno
+                0x0000000000000000                __libc_errno
+ *fill*         0x0000000000000004        0x4 
+ .tbss          0x0000000000000008       0x10 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(cxa_thread_atexit_impl.os)
+
+.preinit_array
+ *(.preinit_array)
+
+.jcr
+ *(.jcr)
+
+.dynamic
+ *(.dynamic)
+
+.got
+ *(.got)
+ *(.igot)
+
+.got.plt
+ *(.got.plt)
+ *(.igot.plt)
+
+.data           0x0000000000000000      0xfc0
+ *(.data)
+ .data          0x0000000000000000      0xf80 /mnt/Projects/tpalit/glibc/glibc-build/elf/dl-allobjs.os
+                0x0000000000000000                _rtld_global
+                0x0000000000000000                _rtld_local
+ .data          0x0000000000000f80        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(check_fds.os)
+ .data          0x0000000000000f80        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(errno.os)
+ .data          0x0000000000000f80        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(setjmp.os)
+ .data          0x0000000000000f80        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(__longjmp.os)
+ .data          0x0000000000000f80        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(strchr.os)
+ .data          0x0000000000000f80        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(strcmp.os)
+ .data          0x0000000000000f80        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(strdup.os)
+ .data          0x0000000000000f80        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(strlen.os)
+ .data          0x0000000000000f80        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(strnlen.os)
+ .data          0x0000000000000f80        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(memchr.os)
+ .data          0x0000000000000f80        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(memcmp.os)
+ .data          0x0000000000000f80        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(memmove.os)
+ .data          0x0000000000000f80        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(memset.os)
+ .data          0x0000000000000f80        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(stpcpy.os)
+ .data          0x0000000000000f80        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(memcpy.os)
+ .data          0x0000000000000f80        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(wordcopy.os)
+ .data          0x0000000000000f80        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(rawmemchr.os)
+ .data          0x0000000000000f80        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(strcmp-ssse3.os)
+ .data          0x0000000000000f80        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(strcmp-sse2-unaligned.os)
+ .data          0x0000000000000f80        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(memcmp-sse4.os)
+ .data          0x0000000000000f80        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(memcpy-ssse3.os)
+ .data          0x0000000000000f80        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(memcpy-sse2-unaligned.os)
+ .data          0x0000000000000f80        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(memcpy-avx512-no-vzeroupper.os)
+ .data          0x0000000000000f80        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(memmove-ssse3.os)
+ .data          0x0000000000000f80        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(memmove-avx-unaligned.os)
+ .data          0x0000000000000f80        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(memcpy-avx-unaligned.os)
+ .data          0x0000000000000f80        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(memmove-ssse3-back.os)
+ .data          0x0000000000000f80        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(memmove-avx512-no-vzeroupper.os)
+ .data          0x0000000000000f80        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(stpcpy-ssse3.os)
+ .data          0x0000000000000f80        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(stpcpy-sse2-unaligned.os)
+ .data          0x0000000000000f80        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(strchr-sse2-no-bsf.os)
+ .data          0x0000000000000f80        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(memcmp-ssse3.os)
+ .data          0x0000000000000f80        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(memset-avx2.os)
+ .data          0x0000000000000f80        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(memset-avx512-no-vzeroupper.os)
+ .data          0x0000000000000f80       0x40 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(cacheinfo.os)
+                0x0000000000000f80                __x86_raw_shared_cache_size
+                0x0000000000000f88                __x86_raw_shared_cache_size_half
+                0x0000000000000f90                __x86_shared_cache_size
+                0x0000000000000f98                __x86_shared_cache_size_half
+                0x0000000000000fa0                __x86_raw_data_cache_size
+                0x0000000000000fa8                __x86_raw_data_cache_size_half
+                0x0000000000000fb0                __x86_data_cache_size
+                0x0000000000000fb8                __x86_data_cache_size_half
+ .data          0x0000000000000fc0        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(closedir.os)
+ .data          0x0000000000000fc0        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(readdir.os)
+ .data          0x0000000000000fc0        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(rewinddir.os)
+ .data          0x0000000000000fc0        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(getdents.os)
+ .data          0x0000000000000fc0        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(fdopendir.os)
+ .data          0x0000000000000fc0        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(uname.os)
+ .data          0x0000000000000fc0        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(_exit.os)
+ .data          0x0000000000000fc0        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(getpid.os)
+ .data          0x0000000000000fc0        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(environ.os)
+ .data          0x0000000000000fc0        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(xstat.os)
+ .data          0x0000000000000fc0        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(fxstat.os)
+ .data          0x0000000000000fc0        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(lxstat.os)
+ .data          0x0000000000000fc0        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(open.os)
+ .data          0x0000000000000fc0        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(read.os)
+ .data          0x0000000000000fc0        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(write.os)
+ .data          0x0000000000000fc0        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(access.os)
+ .data          0x0000000000000fc0        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(fcntl.os)
+ .data          0x0000000000000fc0        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(close.os)
+ .data          0x0000000000000fc0        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(mmap.os)
+ .data          0x0000000000000fc0        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(munmap.os)
+ .data          0x0000000000000fc0        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(mprotect.os)
+ .data          0x0000000000000fc0        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(llseek.os)
+ .data          0x0000000000000fc0        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(profil.os)
+ .data          0x0000000000000fc0        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(prof-freq.os)
+ .data          0x0000000000000fc0        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(libc-lowlevellock.os)
+ .data          0x0000000000000fc0        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(libc-cancellation.os)
+ .data          0x0000000000000fc0        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(libc_multiple_threads.os)
+ .data          0x0000000000000fc0        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(sigaction.os)
+ .data          0x0000000000000fc0        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(setitimer.os)
+ .data          0x0000000000000fc0        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(forward.os)
+ .data          0x0000000000000fc0        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(exit.os)
+ .data          0x0000000000000fc0        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(cxa_atexit.os)
+ .data          0x0000000000000fc0        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(cxa_thread_atexit_impl.os)
+
+.data.rel.ro    0x0000000000000000      0x2ac
+ .data.rel.ro   0x0000000000000000      0x2ac /mnt/Projects/tpalit/glibc/glibc-build/elf/dl-allobjs.os
+                0x00000000000000b0                __pointer_chk_guard_local
+                0x00000000000000b8                _dl_skip_args
+                0x00000000000000c0                __GI__dl_argv
+                0x00000000000000c0                _dl_argv
+                0x00000000000000c8                _dl_argc
+                0x00000000000000e0                _rtld_global_ro
+                0x00000000000000e0                _rtld_local_ro
+                0x0000000000000290                __stack_prot
+                0x0000000000000298                _dl_random
+                0x00000000000002a0                __libc_stack_end
+                0x00000000000002a0                __GI___libc_stack_end
+                0x00000000000002a8                __GI___libc_enable_secure
+                0x00000000000002a8                __libc_enable_secure
+
+.init_array     0x0000000000000000        0x8
+ .init_array    0x0000000000000000        0x8 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(cacheinfo.os)
+
+.data.rel.local
+                0x0000000000000000        0x8
+ .data.rel.local
+                0x0000000000000000        0x8 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(cxa_atexit.os)
+                0x0000000000000000                __exit_funcs
+
+.data1
+ *(.data1)
+
+.bss            0x0000000000000000      0x634
+ *(.dynbss)
+ *(.bss)
+ .bss           0x0000000000000000      0x120 /mnt/Projects/tpalit/glibc/glibc-build/elf/dl-allobjs.os
+                0x00000000000000f8                __libc_multiple_libcs
+                0x0000000000000118                __curbrk
+ .bss           0x0000000000000120        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(check_fds.os)
+ .bss           0x0000000000000120        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(errno.os)
+ .bss           0x0000000000000120        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(setjmp.os)
+ .bss           0x0000000000000120        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(__longjmp.os)
+ .bss           0x0000000000000120        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(strchr.os)
+ .bss           0x0000000000000120        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(strcmp.os)
+ .bss           0x0000000000000120        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(strdup.os)
+ .bss           0x0000000000000120        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(strlen.os)
+ .bss           0x0000000000000120        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(strnlen.os)
+ .bss           0x0000000000000120        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(memchr.os)
+ .bss           0x0000000000000120        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(memcmp.os)
+ .bss           0x0000000000000120        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(memmove.os)
+ .bss           0x0000000000000120        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(memset.os)
+ .bss           0x0000000000000120        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(stpcpy.os)
+ .bss           0x0000000000000120        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(memcpy.os)
+ .bss           0x0000000000000120        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(wordcopy.os)
+ .bss           0x0000000000000120        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(rawmemchr.os)
+ .bss           0x0000000000000120        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(strcmp-ssse3.os)
+ .bss           0x0000000000000120        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(strcmp-sse2-unaligned.os)
+ .bss           0x0000000000000120        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(memcmp-sse4.os)
+ .bss           0x0000000000000120        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(memcpy-ssse3.os)
+ .bss           0x0000000000000120        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(memcpy-sse2-unaligned.os)
+ .bss           0x0000000000000120        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(memcpy-avx512-no-vzeroupper.os)
+ .bss           0x0000000000000120        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(memmove-ssse3.os)
+ .bss           0x0000000000000120        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(memmove-avx-unaligned.os)
+ .bss           0x0000000000000120        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(memcpy-avx-unaligned.os)
+ .bss           0x0000000000000120        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(memmove-ssse3-back.os)
+ .bss           0x0000000000000120        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(memmove-avx512-no-vzeroupper.os)
+ .bss           0x0000000000000120        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(stpcpy-ssse3.os)
+ .bss           0x0000000000000120        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(stpcpy-sse2-unaligned.os)
+ .bss           0x0000000000000120        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(strchr-sse2-no-bsf.os)
+ .bss           0x0000000000000120        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(memcmp-ssse3.os)
+ .bss           0x0000000000000120        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(memset-avx2.os)
+ .bss           0x0000000000000120        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(memset-avx512-no-vzeroupper.os)
+ .bss           0x0000000000000120        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(cacheinfo.os)
+ .bss           0x0000000000000120        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(closedir.os)
+ .bss           0x0000000000000120        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(readdir.os)
+ .bss           0x0000000000000120        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(rewinddir.os)
+ .bss           0x0000000000000120        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(getdents.os)
+ .bss           0x0000000000000120        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(fdopendir.os)
+ .bss           0x0000000000000120        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(uname.os)
+ .bss           0x0000000000000120        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(_exit.os)
+ .bss           0x0000000000000120        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(getpid.os)
+ .bss           0x0000000000000120        0x8 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(environ.os)
+                0x0000000000000120                _environ
+                0x0000000000000120                __environ
+                0x0000000000000120                environ
+ .bss           0x0000000000000128        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(xstat.os)
+ .bss           0x0000000000000128        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(fxstat.os)
+ .bss           0x0000000000000128        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(lxstat.os)
+ .bss           0x0000000000000128        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(open.os)
+ .bss           0x0000000000000128        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(read.os)
+ .bss           0x0000000000000128        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(write.os)
+ .bss           0x0000000000000128        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(access.os)
+ .bss           0x0000000000000128        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(fcntl.os)
+ .bss           0x0000000000000128        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(close.os)
+ .bss           0x0000000000000128        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(mmap.os)
+ .bss           0x0000000000000128        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(munmap.os)
+ .bss           0x0000000000000128        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(mprotect.os)
+ .bss           0x0000000000000128        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(llseek.os)
+ *fill*         0x0000000000000128       0x18 
+ .bss           0x0000000000000140       0xe0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(profil.os)
+ .bss           0x0000000000000220        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(prof-freq.os)
+ .bss           0x0000000000000220        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(libc-lowlevellock.os)
+ .bss           0x0000000000000220        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(libc-cancellation.os)
+ .bss           0x0000000000000220        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(libc_multiple_threads.os)
+ .bss           0x0000000000000220        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(sigaction.os)
+ .bss           0x0000000000000220        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(setitimer.os)
+ .bss           0x0000000000000220        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(forward.os)
+ .bss           0x0000000000000220        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(exit.os)
+ .bss           0x0000000000000220      0x414 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(cxa_atexit.os)
+ .bss           0x0000000000000634        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(cxa_thread_atexit_impl.os)
+ *(COMMON)
+ COMMON         0x0000000000000634        0x0 /mnt/Projects/tpalit/glibc/glibc-build/elf/dl-allobjs.os
+ COMMON         0x0000000000000634        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(cacheinfo.os)
+ COMMON         0x0000000000000634        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(libc_multiple_threads.os)
+ COMMON         0x0000000000000634        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(forward.os)
+ COMMON         0x0000000000000634        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(cxa_atexit.os)
+
+.lbss
+ *(.dynlbss)
+ *(.lbss)
+ *(LARGE_COMMON)
+
+.lrodata
+ *(.lrodata)
+
+.ldata
+ *(.ldata)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x0000000000000000      0xd14
+ *(.comment)
+ .comment       0x0000000000000000      0x762 /mnt/Projects/tpalit/glibc/glibc-build/elf/dl-allobjs.os
+ .comment       0x0000000000000762       0x36 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(check_fds.os)
+ .comment       0x0000000000000798       0x36 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(errno.os)
+ .comment       0x00000000000007ce       0x36 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(strdup.os)
+ .comment       0x0000000000000804       0x36 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(memmove.os)
+ .comment       0x000000000000083a       0x36 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(wordcopy.os)
+ .comment       0x0000000000000870       0x36 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(cacheinfo.os)
+ .comment       0x00000000000008a6       0x36 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(closedir.os)
+ .comment       0x00000000000008dc       0x36 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(readdir.os)
+ .comment       0x0000000000000912       0x36 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(rewinddir.os)
+ .comment       0x0000000000000948       0x36 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(getdents.os)
+ .comment       0x000000000000097e       0x36 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(fdopendir.os)
+ .comment       0x00000000000009b4       0x36 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(_exit.os)
+ .comment       0x00000000000009ea       0x36 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(getpid.os)
+ .comment       0x0000000000000a20       0x36 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(environ.os)
+ .comment       0x0000000000000a56       0x36 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(xstat.os)
+ .comment       0x0000000000000a8c       0x36 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(fxstat.os)
+ .comment       0x0000000000000ac2       0x36 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(lxstat.os)
+ .comment       0x0000000000000af8       0x36 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(fcntl.os)
+ .comment       0x0000000000000b2e       0x36 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(mmap.os)
+ .comment       0x0000000000000b64       0x36 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(profil.os)
+ .comment       0x0000000000000b9a       0x36 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(prof-freq.os)
+ .comment       0x0000000000000bd0       0x36 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(libc_multiple_threads.os)
+ .comment       0x0000000000000c06       0x36 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(sigaction.os)
+ .comment       0x0000000000000c3c       0x36 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(forward.os)
+ .comment       0x0000000000000c72       0x36 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(exit.os)
+ .comment       0x0000000000000ca8       0x36 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(cxa_atexit.os)
+ .comment       0x0000000000000cde       0x36 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(cxa_thread_atexit_impl.os)
+
+.note.GNU-stack
+                0x0000000000000000        0x0
+ .note.GNU-stack
+                0x0000000000000000        0x0 /mnt/Projects/tpalit/glibc/glibc-build/elf/dl-allobjs.os
+ .note.GNU-stack
+                0x0000000000000000        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(check_fds.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(errno.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(setjmp.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(__longjmp.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(strchr.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(strcmp.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(strdup.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(strlen.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(strnlen.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(memchr.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(memcmp.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(memmove.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(memset.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(stpcpy.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(memcpy.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(wordcopy.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(rawmemchr.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(strcmp-ssse3.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(strcmp-sse2-unaligned.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(memcmp-sse4.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(memcpy-ssse3.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(memcpy-sse2-unaligned.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(memcpy-avx512-no-vzeroupper.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(memmove-ssse3.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(memmove-avx-unaligned.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(memcpy-avx-unaligned.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(memmove-ssse3-back.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(memmove-avx512-no-vzeroupper.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(stpcpy-ssse3.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(stpcpy-sse2-unaligned.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(strchr-sse2-no-bsf.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(memcmp-ssse3.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(memset-avx2.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(memset-avx512-no-vzeroupper.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(cacheinfo.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(closedir.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(readdir.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(rewinddir.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(getdents.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(fdopendir.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(uname.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(_exit.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(getpid.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(environ.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(xstat.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(fxstat.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(lxstat.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(open.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(read.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(write.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(access.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(fcntl.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(close.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(mmap.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(munmap.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(mprotect.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(llseek.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(profil.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(prof-freq.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(libc-lowlevellock.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(libc-cancellation.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(libc_multiple_threads.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(sigaction.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(setitimer.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(forward.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(exit.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(cxa_atexit.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /mnt/Projects/tpalit/glibc/glibc-build/libc_pic.a(cxa_thread_atexit_impl.os)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges
+ *(.debug_aranges)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info
+ *(.debug_info)
+
+.debug_abbrev
+ *(.debug_abbrev)
+
+.debug_line
+ *(.debug_line .debug_line.* .debug_line_end)
+
+.debug_frame
+ *(.debug_frame)
+
+.debug_str
+ *(.debug_str)
+
+.debug_loc
+ *(.debug_loc)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges
+ *(.debug_ranges)
+
+.debug_macro
+ *(.debug_macro)
+
+.gnu.attributes
+ *(.gnu.attributes)
+OUTPUT(/mnt/Projects/tpalit/glibc/glibc-build/elf/librtld.map.o elf64-x86-64)

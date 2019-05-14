@@ -1,0 +1,16 @@
+/mnt/Projects/tpalit/glibc/glibc-build/dummy.o: \
+ /mnt/Projects/tpalit/glibc/glibc-build/dummy.c ../include/stdc-predef.h \
+ /mnt/Projects/tpalit/glibc/glibc-build/libc-modules.h \
+ ../include/libc-symbols.h \
+ /mnt/Projects/tpalit/glibc/glibc-build/config.h \
+ ../sysdeps/generic/symbol-hacks.h
+
+../include/stdc-predef.h:
+
+/mnt/Projects/tpalit/glibc/glibc-build/libc-modules.h:
+
+../include/libc-symbols.h:
+
+/mnt/Projects/tpalit/glibc/glibc-build/config.h:
+
+../sysdeps/generic/symbol-hacks.h:

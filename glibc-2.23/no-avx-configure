@@ -1,0 +1,1 @@
+./glibc-2.23/configure --prefix=/mnt/Projects/tpalit/glibc/glibc-install --host=x86_64-linux-gnu --build=x86_64-linux-gnu CFLAGS="-O2 -mno-avx"
